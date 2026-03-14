@@ -37,3 +37,20 @@ This project uses:
 - JavaScript
 
 ## 📁 Project Structure
+
+AI-Resume-Analyzer/
+│
+├── backend/
+│ ├── app.py
+│ ├── resume_parser.py
+│ ├── skill_extractor.py
+│ ├── matcher.py
+│ └── uploads/
+│
+├── frontend/
+│ ├── src/
+│ └── package.json
+│
+└── README.md
+
+---
